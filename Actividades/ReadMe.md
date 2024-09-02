@@ -1,1 +1,1 @@
-Carpeta para vidualizar las activiades de la clase.
+Carpeta para visualizar las activiades de la clase.
